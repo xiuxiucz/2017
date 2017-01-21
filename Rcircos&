@@ -1,3 +1,0 @@
-#Rcircos
-##
-install.packages("RCircos")

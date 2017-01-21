@@ -1,0 +1,7 @@
+#Rcircos
+##
+install.packages("RCircos")
+```markdown
+####http://www.bioconductor.org/packages/release/bioc/vignettes/OmicCircos/inst/doc/OmicCircos_vignette.pdf
+##
+```
